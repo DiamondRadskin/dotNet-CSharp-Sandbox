@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Exercise04 challenge4 = new Exercise04();
-            challenge4.exercise();
+            ex6 challenge6 = new ex6();
+            challenge6.exercise();
         }
     }
 }

@@ -47,6 +47,7 @@ namespace Math_Exercises
             }
             Console.WriteLine(string.Join(" - ", highWatts));
             Console.WriteLine(string.Join(" - ", lowWatts));
+
             
             
             

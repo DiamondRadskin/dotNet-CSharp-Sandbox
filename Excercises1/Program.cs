@@ -1,4 +1,4 @@
-﻿namespace Excercises1
+﻿namespace   Fundamentals
 {
     internal class Program
     {
@@ -7,8 +7,8 @@
             //Console.WriteLine("Hello, World!");
             //Basics1 exercise1 = new Basics1();
 
-            Exercise06 exercise4 = new Exercise06();
-            exercise4.exercise();
-                    }
+            //Exercise06 exercise4 = new Exercise06();
+            //exercise4.exercise();
+        }
     }
 }
