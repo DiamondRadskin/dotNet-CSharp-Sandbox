@@ -2,5 +2,5 @@
   <Project Path="../../../MyWorkspace/MySchoolWorks/MiscExercisesX.csproj" />
   <Project Path="Excercises1/Fundamentals.csproj" />
   <Project Path="Math-Exercises/Math-Exercises.csproj" Id="e92afcef-e91b-4de0-a86e-d47dd07ed2b6" />
-  <Project Path="MiscExercises/MiscExercises.csproj" Id="ccf8b3f7-0e3a-442a-b42d-8339c0e2b08c" />
+  <Project Path="MiscExercises/Misc-Exercises.csproj" Id="ccf8b3f7-0e3a-442a-b42d-8339c0e2b08c" />
 </Solution>
