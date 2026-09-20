@@ -1,10 +1,13 @@
-﻿namespace Misc_Exercises
+﻿using MiscExercises;
+
+namespace Misc_Exercises
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            SimpleQuiz challenge6 = new SimpleQuiz();
+            challenge6.task();
         }
     }
 }
